@@ -1,3 +1,10 @@
+# Source
+The source code of the proposed FedCon framework is publicly available
+at https://anonymous.4open.science/r/fedcon-pytorch-E151
+
+Thanks for your help with my research experiment.
+
+
 # FedCon: A Contrastive Framework for Federated Semi-Supervised Learning
 A PyTorch implementation for the paper **FedCon: A Contrastive Framework for Federated Semi-Supervised Learning**.
 
@@ -6,8 +13,6 @@ We have 5 baselines (FedAvg-FixMatch, FedProx-FixMatch, FedAvg-UDA, FedProx-UDA,
 We do our experiments on MNIST, CIFAR-10, and SVHN datasets.
 
 you should place your data in `./fedcon-ecmlpkdd2021/data/mnist` (mnist for example)
-
-
 
 
 
